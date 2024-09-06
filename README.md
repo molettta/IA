@@ -1,5 +1,5 @@
 # RECONHECIMENTO FACIAL UTILIZANDO INTELIGÊNCIA ARTIFICIAL ✨
-### Nesta documentação, será apresentado esse software que utiliza de recursos de **machine learning** e **neural networks**
+### Nesta documentação, será apresentado um software que utiliza de recursos de **machine learning** e **neural networks** para reconhecimento facial
 
 Esse projeto foi realizado em conjunto com os alunos como uma prática da disciplina de IA do curso Análise e Desenvolvimento de Sistemas  da Faculdade SENAC, situada na cidade de **Ponta Grossa - Paraná**
 
