@@ -1,1 +1,2 @@
-Coloque arqui os vides no formato {rotudo).mp4
+Coloque aqui os videos no formato {rotulo).mp4
+

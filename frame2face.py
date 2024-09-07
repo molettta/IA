@@ -1,6 +1,6 @@
-import face_recognition
-import os
-import cv2
+import face_recognition  # biblioteca poderosa para reconhecimento facial que facilita a detecção de rostos em imagens
+import os  # usado para interagir com o sistema de arquivos (listar diretórios, criar pastas, etc)
+import cv2  #usado para salvar as imagens processadas, já que a biblioteca face_recognition não tem essa funcionalidade
 
 def detect_faces_in_frames(frames_folder, output_folder):
     if not os.path.exists(output_folder):

@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator # type: ignore
 
 # Criar gerador de dados para treinamento
 data_generator = ImageDataGenerator(rescale=1./255, validation_split=0.2)
